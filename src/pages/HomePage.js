@@ -4,14 +4,7 @@ import "../styles/components/pages/HomePage.css";
 const HomePage = (props) => {
     return (
         <main className="holder">
-      <div className="homeimg">
-        <img
-          src="img/freeglutenhome.jpg"
-          width="100%"
-          alt="plato de fideos sin gluten"
-        />
-      </div>
-      <div>
+        <div>
         <section className="bienvenidos">
           <h2>Bienvenidos</h2>
           <p>
@@ -28,6 +21,13 @@ const HomePage = (props) => {
             nemo. Nulla repellat quod placeat error!
           </p>
         </section>
+        <div className="homeimg">
+        <img
+          src="img/freeglutenhome.jpg"
+          width="100%"
+          alt="plato de fideos sin gluten"
+        />
+      </div>
       </div>
     </main>
     );

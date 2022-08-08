@@ -31,14 +31,13 @@ const ContactoPage = (props) => {
       <div className="datos">
         <h2>Otras vías de comunicación</h2>
         <p>
-          También puede contactarse con nosotros usando los siguientes medios
+          También puedes contactarse con nosotros enviándonos un mail o visitando nuestras redes sociales
         </p>
         <ul>
-          <li>Teléfono: 43242388</li>
-          <li>Email: contacto@transportesx.com.ar</li>
-          <li>Facebook:</li>
-          <li>Twitter:</li>
-          <li>Skype:</li>
+          <li>Email: maicitosfundacion@gmail.com</li>
+          <li>Instagram: MaicitosFundacion</li>
+          <li>Facebook: MaicitosFundacion</li>
+          
         </ul>
       </div>
     </main>

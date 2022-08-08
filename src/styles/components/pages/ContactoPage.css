@@ -8,11 +8,13 @@
 }
 
 .datos p {
-    font-size: 14px;    
+    font-size: 20px;    
 }
 
 .datos ul li {
-    font-size: 13px;
+    font-size: 20px;
+    color: #566573;
+    margin-left: 10%;
 }
 
 .formulario p {
