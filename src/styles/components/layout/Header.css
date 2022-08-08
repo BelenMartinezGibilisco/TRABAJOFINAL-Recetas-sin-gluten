@@ -1,0 +1,17 @@
+header{
+    background-color: #8FD8D2;
+    padding: 16px 0;
+}
+
+header h1{
+    color: #DF744A;
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    font-weight: 100;
+    text-decoration: underline;
+    display: inline-block;
+    position: relative;
+    bottom: 35px;
+    margin-left: 10px;
+
+}
