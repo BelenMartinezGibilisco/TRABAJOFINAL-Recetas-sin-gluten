@@ -1,3 +1,7 @@
+.fondo {
+    /*background-image: url(../../../../public/img/fondorecetas.jpg);**/
+}
+
 .recetas{
     display: flex;
     justify-content: center;

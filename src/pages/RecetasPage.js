@@ -3,7 +3,7 @@ import "../styles/components/pages/RecetasPage.css";
 
 const RecetasPage = (props) => {
     return (
-        <main className="holder">
+        <main className="holder fondo">
       <div className="recetas">
         <h2>Nuestras Recetas</h2>
       </div>
